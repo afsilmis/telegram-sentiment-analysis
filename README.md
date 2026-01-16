@@ -82,11 +82,3 @@ Az-Zukhrufu Fi Silmi Suwondo
 ## Data Source
 
 Dataset: [Kaggle/pandaa12](https://www.kaggle.com/datasets/pandaa12/telegram-reviews-indonesia-google-play-store)
-
----
-
-*Data Science Portfolio Project*
-
----
-
-Anda tinggal ganti `[Link to Streamlit App]` dengan URL aktual aplikasi Streamlit Anda.
